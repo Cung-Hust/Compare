@@ -1,0 +1,10 @@
+2021-08-30 10:24:45,464:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:25:44,672:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:26:28,317:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:27:23,897:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:28:11,592:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:30:24,986:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:31:26,468:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:32:28,931:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:33:03,526:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
+2021-08-30 10:33:52,693:	ERROR:	MqttDataHandler.py:__handler_cloud_to_device_request_topic():77	mqtt data receiver in topic cloud/device/request invalid
